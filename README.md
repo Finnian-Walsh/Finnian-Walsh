@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Silver-supergamer
+- 👋 Hi, I'm @Finnian-Walsh
 - 👀 I’m interested in C++
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on C++ open-source projects
