@@ -2,7 +2,7 @@
 - 👀 I’m interested in C++
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on C++ open-source projects
-- 📫 How to reach me silversupergamer@gmail.com
+- 📫 How to reach me walshfinnian@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Python oop is orders of magnitude slower than oop in other languages
 
