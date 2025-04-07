@@ -7,6 +7,6 @@
 - ⚡ Fun fact: Python oop is orders of magnitude slower than oop in other languages
 
 <!---
-Silver-supergamer/Silver-supergamer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Finnian-Walsh/Finnian-Walsh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
