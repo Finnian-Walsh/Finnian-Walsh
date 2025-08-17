@@ -1,10 +1,10 @@
 - 👋 Hi, I'm @Finnian-Walsh
-- 👀 I’m interested in C++
-- 🌱 I’m currently learning Rust?
+- 👀 I’m interested in Rust
+- 🌱 I’m currently learning Rust
 - 💞️ I’m not looking for anything
 - 📫 How to reach me walshfinnian@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Python oop is very slow
+- ⚡ Fun fact: Neovim is excellent 💚
 
 <!---
 Finnian-Walsh/Finnian-Walsh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
