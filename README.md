@@ -1,7 +1,7 @@
 - 👋 Hi, I'm @Finnian-Walsh
 - 👀 I’m interested in Rust
-- 🌱 I’m currently learning Rust
-- 💞️ I’m not looking for anything
+- 🌱 I’m currently a beginner
+- 💞️ I’m not looking for much
 - 📫 How to reach me walshfinnian@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Neovim is excellent 💚
