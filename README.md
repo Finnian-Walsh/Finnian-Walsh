@@ -1,10 +1,7 @@
 - ⚡ Fun fact: You should use Neovim 💚
-
-![Neovim image](https://github.com/Finnian-Walsh/Finnian-Walsh/blob/main/neovim-small.png?raw=true)
-
 - 👀 I’m interested in Rust 🦀
 
-![Rust image](https://github.com/Finnian-Walsh/Finnian-Walsh/blob/main/rust-logo-64x64.png?raw=true)
+![Neovim image](https://github.com/Finnian-Walsh/Finnian-Walsh/blob/main/neovim-small.png?raw=true) ![Rust image](https://github.com/Finnian-Walsh/Finnian-Walsh/blob/main/rust-logo-64x64.png?raw=true)
 
 <!---
 Finnian-Walsh/Finnian-Walsh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
