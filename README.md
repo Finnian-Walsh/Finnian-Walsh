@@ -1,5 +1,5 @@
 - ⚡ Fun fact: You should use Neovim 💚
-![Neovim image](https://github.com/Finnian-Walsh/Finnian-Walsh/blob/15dbfc5fc6580b2f16db77a1d1291901c373b1fc/neovim.png)
+![Neovim image](https://github.com/Finnian-Walsh/Finnian-Walsh/blob/main/neovim.png?raw=true)
 
 - 👀 I’m interested in Rust
 ![Rust image](https://github.com/Finnian-Walsh/Finnian-Walsh/blob/main/rust-logo.png?raw=true)
