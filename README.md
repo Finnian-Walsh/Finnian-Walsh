@@ -2,7 +2,7 @@
 ![Neovim image](https://github.com/Finnian-Walsh/Finnian-Walsh/blob/15dbfc5fc6580b2f16db77a1d1291901c373b1fc/neovim.png)
 
 - 👀 I’m interested in Rust
-
+![Rust image](https://github.com/Finnian-Walsh/Finnian-Walsh/blob/main/rust-logo.png?raw=true)
 
 <!---
 Finnian-Walsh/Finnian-Walsh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
