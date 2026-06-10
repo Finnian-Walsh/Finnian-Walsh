@@ -11,6 +11,17 @@
 
 </details>
 
+<details>
+<summary>Some useful mathematical things</summary>
+ 
+- Gaussian Integral: $\int_{-\infty}^{\infty} e^{-x^2} dx = \sqrt{\pi}$
+- Common trigonometric identities:
+  - $\sin(A+B) \equiv \sin(A)\cos(B) + \sin(B)\cos(A)$
+  - $\cos(A+B) \equiv \cos(A)\cos(B) - \sin(A)\sin(B)$
+  - $\tan(A+B) \equiv \frac{\tan(A) + \tan(B)}{1 - \tan(A)\tan(B)}$
+
+</details>
+
 <!---
 Finnian-Walsh/Finnian-Walsh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
