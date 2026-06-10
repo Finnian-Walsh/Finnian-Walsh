@@ -4,6 +4,13 @@
 ![Neovim image](neovim-small.png)
 ![Rust image](rust-logo-64x64.png)
 
+<details>
+<summary>Programming languages tier list</summary>
+
+![Tier List](tier-list.png)
+
+</details>
+
 <!---
 Finnian-Walsh/Finnian-Walsh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
